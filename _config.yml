@@ -1,0 +1,28 @@
+name: tyler
+favicon: null
+layout_spectrum: 0.6088240176904947
+typography_spectrum: 0.9452112480066717
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9132863495033234
+  lightness: 0.7075879538897425
+  saturation: 0.8743358389474452
+  rhythmicContrast: 0.8040408315137029
+purpose: []
